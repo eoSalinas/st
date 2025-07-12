@@ -1,0 +1,11 @@
+*.o
+*.config.h
+*~
+
+*.log
+
+*.orig
+*.rej
+
+st
+config.h
